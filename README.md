@@ -1,8 +1,8 @@
-                                                                                                   EXERCISE 1
+# EXERCISE 1
 
-##  Astronaut Daily Schedule Organizer 
+## Astronaut Daily Schedule Organizer 
 
- ## Project Overview
+ # Project Overview
 
 * The Astronaut Daily Schedule Organizer is a Java-based console application that helps astronauts manage their daily tasks efficiently during space missions. This project demonstrates the use of Object-Oriented     Programming (OOP) and the Command Design Pattern to organize, track, and update astronaut activities in a modular and structured way.
 
@@ -46,7 +46,8 @@ Enter task priority: 1
 Task added successfully!
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                                               ## EXERCISE 2
+## EXERCISE 2
+
 # Design Patterns Demo (Java)
 
 This project demonstrates **6 classic design patterns** in Java:
